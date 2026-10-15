@@ -110,4 +110,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-**Your Name** - [GitHub](https://github.com/<your-username>)
+**Your Name** - [Muhammed Ashal P T](https://github.com/<ashal-pt>)
